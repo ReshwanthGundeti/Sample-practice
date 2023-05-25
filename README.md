@@ -32,5 +32,29 @@ int sum = c+b;
 
 ~~The table~~
 
+### Checklist
+
+- [ ] item 1
+- [x] item 2
+- [ ] item 3
+
+
+The function is $f(x) = x^2$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
