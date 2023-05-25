@@ -10,7 +10,23 @@ Lets direct to google  <https://www.google.com/search?q=goorle&oq=goorle&aqs=chr
 
 ### Images
 
-![Image](C:\Users\16605\Desktop\Photos\20230226_164315)
+
+![Image](https://github.com/ReshwanthGundeti/Sample-practice/assets/89552030/340935e7-0748-4f33-8531-a4975efbc437)
+
+~~~
+int c,b;
+int sum = c+b;
+~~~
 
 
-I want to meet the \p\. So, everything I could think off
+
+### Tables
+
+| City | State | Country |
+|  --- | ---   |  ---    |
+| hyd  | telangana | india |
+| Atlanta | Georgia | US  |
+| Maryville | Missouri | US | 
+
+
+
