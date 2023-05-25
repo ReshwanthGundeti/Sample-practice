@@ -28,5 +28,8 @@ int sum = c+b;
 | Atlanta | Georgia | US  |
 | Maryville | Missouri | US | 
 
+### Strikethrough
+
+~~The table~~
 
 
