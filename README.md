@@ -41,9 +41,11 @@ int sum = c+b;
 
 The function is $f(x) = x^2$
 
+H~2~0
 
+The cost of book is: [^x]
 
-
+[^x]:20$
 
 
 
